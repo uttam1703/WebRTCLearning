@@ -27,7 +27,7 @@ A **video calling app demo** built in **Swift** and **UIKit** using **WebRTC** a
 ## 📦 Requirements
 
 * Xcode 14 or later
-* iOS 14+ target
+* iOS 15.6+ target
 * Local Wi-Fi network
 * Two iOS devices on the same network
 
