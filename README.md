@@ -33,14 +33,14 @@ A **video calling app demo** built in **Swift** and **UIKit** using **WebRTC** a
 
 ---
 
+
+
 ## 🎬 Usage
 
 1. **Launch the app** on both devices.
-2. **Enter the peer ID** of the other device (displayed upon launch).
-3. **Tap “Connect”** to initiate WebSocket signaling.
-4. Once signaling completes, **video streams** will appear on both screens.
-5. **End call** by tapping the disconnect button.
-
----
-
+2. **Tap “Create Call”** to initiate WebSocket signaling.
+3. Once signaling completes, **tap “Start Call”**.
+4. **Video call** will start.
+5. Use **Mute/Unmute** and **Show/Hide Video** controls as needed.
+6. **End call** by tapping the disconnect button.
 
